@@ -24,5 +24,5 @@ This project was created for the Coding Foundations course.
 
 ## Purpose
 
-The purpose of this project is to demonstrate basic skills in HTML, CSS, and Flexbox by recreating the CodePen.io landing page.
+The purpose of this project is to demonstrate basic skills in HTML, CSS, and Flexbox by recreating the CodePen landing page.
 
