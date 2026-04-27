@@ -1,22 +1,28 @@
-## CodePen Homepage Clone ##
+# CodePen Homepage Clone
+
+## Project Description
 
 This project is a recreation of the CodePen.io homepage using HTML and CSS.
 
-# Project Features #
+## Project Features
 
-- Navigation bar with CodePen logo
-- Links for Pens, Projects, Posts, Collections, and Spark
-- Hero section with text and call-to-action buttons
-- Image preview section
-- Footer-style section with CodePen categories
-- Layout built with Flexbox
+- **Navigation Bar:** Includes the CodePen logo and links for Pens, Projects, Posts, Collections, and Spark.
+- **Hero Section:** Includes the main homepage text and call-to-action buttons.
+- **Image Preview:** Includes a project preview image similar to the CodePen homepage.
+- **Footer Section:** Includes CodePen category links for Teams, Education, Privacy, and Writing.
+- **Flexbox Layout:** Uses Flexbox to align and organize the page sections.
 
-# Technologies Used #
+## Technologies Used
 
-- HTML
-- CSS
-- Flexbox
+- **HTML**
+- **CSS**
+- **Flexbox**
 
-# Purpose #
+## Course
 
-This project was created for the Coding Foundations course to demonstrate basic HTML, CSS, and Flexbox skills.
+This project was created for the Coding Foundations course.
+
+## Purpose
+
+The purpose of this project is to demonstrate basic skills in HTML, CSS, and Flexbox by recreating the CodePen.io landing page.
+
